@@ -1,0 +1,11 @@
+{
+  "name": "react-unit-test-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yujhenchen/react-unit-test-example.git",
+  "author": "yujhenchen",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
