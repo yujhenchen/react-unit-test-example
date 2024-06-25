@@ -7,7 +7,7 @@ yarn-error.log*
 yarn.lock*
 package-lock.json
 Cargo.lock
-
+tsconfig.tsbuildinfo
 
 
 # Dependency directories
